@@ -23,7 +23,6 @@ daha önemli ve önceliklidir denilerek baz alınması gereken değerler özetle
 * Aynı işler sürekli tekrar içinde hareket eder.
 * Değişikliklere kolay uyum sağlayan bir yapıdır.
 
-![scrum](C:\Users\salih\Desktop\ders\müzik kültürüne giriş\scrum.png)
 
 Scrum yapısı aslında en basit şekilde yukarıdaki grafikte anlatılmaktadır. Scrum sürecine göz atıcak olursak ilk başta bir backlog olduğunu görürüz. Backlog ürünle ilgili istenilen bilgileri kapsamaktadır ve gayet uzun bir listeden oluşmaktadır. Bu backlog'tan bir kısım seçilir ki tamamını ele alarak hareket etmek çok zor bir süreçtir. Bu aşamada aslında scrum'ı waterfall modelden ayıran bir hareket olduğu açıktır. Waterfall model neredeyse tamamını ele alarak hareket edilen bir yapıdır. Ancak scrum yapısında kısım kısım ilerleyerek hareket edilir. Scrum ekimi seçilen bir kısım için özel bir backlog oluşturur. Bu aşamadan sonra belirlenen kısım için belirli bir sprint süresi belirlenir. Bu süre 1 ila 4 hafta arasında değişkenlik göterir fakat genel olarak 4 haftalık süreç tercih edilmektedir. Her yeni backlog parçası için sürekli bir döngü oluşturularak süreç ilerletilir. Belirlenen yaklaşık bir aylık süreç içinde her günün sonunda bir meeting düzenlenmektedir. Scrumın bize getirdiği farklı bir yaklaşım ise iteratif veya spiral modelde gördüğümüz "Requirements - Design - Code - Test" sıralamasının dışına çıkarak hareket edilmesidir. Scrum modelde başlangıç sıralaması bu şekilde olurken ilerleyen zamanlarda bütün yapılar aynı anda devam ettirilmekte ve tekrara aynı sıralamada bitirilmektedir.
 
@@ -84,7 +83,4 @@ Yatay eksende sprintin günlerini,dikey eksende sprintte kalan işi gösteren gr
 ## KANBAN
 
 Kanban işlerimizi daha verimli nasıl halledebileceğimize dair plan çıkaran bir metottur. Kanban çok basit bir tablolama yöntemi ile açıklanabilir.
-
-![Kanban-Sistemi](C:\Users\salih\Desktop\Kanban-Sistemi.png)
-
 Yukarıda ki resimde de görüleceği üzere kanban aslında işlerimizi bir plana göre hareket ettireceğimiz esnek bir tablo oluşturmaktır. Her bir bölgede ilk çıkan fikrin aşama aşama takibi ve yapılmakta ve yapılmamış işler göz önünde bulundurularak birikmenin önüne geçilmektedir.
